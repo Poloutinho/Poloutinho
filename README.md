@@ -8,7 +8,7 @@
 - Spring, Spring Security, Spring Web
 - Hibernate, SQL, HTML & CSS
 - Git, Github, Docker, Swagger
-- PostgresSQL, Liquibase, MapStruct
+- PostgreSQL, Liquibase, MapStruct
 
 ## Experience
 
