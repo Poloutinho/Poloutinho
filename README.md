@@ -21,4 +21,8 @@
 
 ## Summary
 
-My name is Pavlo, I am a third-year student at the Kharkiv Aviation Institute. Coding has been my passion since school, so I chose the Faculty of Software Engineering. I remember this feeling when I wrote my first program, my first sorting algorithm, my first web project. It is important for me to work with a friendly team, where each person is valuable for the company.
+- Strong Core Java developer with extensive hands-on experience.
+- A passion for clean code, focused on delivering the highest quality product.
+- Experienced in building distributed, high performance, concurrent and reliable Java software.
+- High level of responsibility and dedication to improving and troubleshooting programs.
+- Willingness to learn new technologies.
